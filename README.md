@@ -93,18 +93,14 @@ Operating within the BookOps processing pipeline required high output, precision
 - **No-Loss Transport Binding:** Configured branch routing tags and item attributes across municipal transport runs, ensuring physical materials moved seamlessly to target branches without losing trackability.
 
 ---
-
 ## Bridge to Systems Architecture (LCA1.0)
 
-Managing enterprise metadata at an institutional scale exposed structural limitations within centralized legacy infrastructure. These insights directly informed the design philosophy and technical architecture of **LCA1.0** — a local-first, decolonial digital archive centering the works of Afro-Caribbean and Afro-Latina women and femmes across the diaspora.
+Managing enterprise metadata at an institutional scale exposed structural limitations within centralized legacy infrastructure. These insights directly informed the design philosophy and technical architecture of LCA1.0 - a local-first, decolonial digital archive centering the works of Afro-Caribbean and Afro-Latina women and femmes across the diaspora.
 
-- **ILS Bottlenecks → Local-First Framework:** Operating within Sierra ILS demonstrated the vulnerabilities of centralized, cloud-dependent databases during network disruptions. LCA1.0 adopts a local-first data architecture, prioritizing local data ownership, offline functionality, and resilient synchronization via PWA + IndexedDB (Dexie.js).
-
+- **ILS Bottlenecks → Local-First Framework:** Operating within Sierra ILS demonstrated the vulnerabilities of centralized, cloud-dependent databases during network disruptions. LCA1.0 prioritizes local data ownership, offline functionality, and resilient synchronization - keeping the archive accessible regardless of infrastructure availability.
 - **Monolithic Schemas → Flexible Taxonomy:** Remediating legacy cataloging errors highlighted how inflexible schemas collapse nuanced user mental models. LCA1.0 implements modular, extensible metadata schemas that accommodate granular tagging and non-Eurocentric classification frameworks.
-
 - **Data Dependencies → Data Governance:** Intercepting flawed vendor manifests underscored the risk of relying on third-party metadata ingestion without local audit controls. LCA1.0 embeds metadata validation and community-driven audit workflows directly at the interface level.
-
-- **Eurocentric Defaults → Decolonial Standards:** Eight years of flagging biased vendor metadata defaults built the foundation for LCA1.0's decolonial archival framework — an explicit commitment to centering non-Western naming conventions, multilingual metadata, and culturally specific classification over legacy algorithmic defaults.
+- **Eurocentric Defaults → Decolonial Standards:** Eight years of flagging biased vendor metadata defaults built the foundation for LCA1.0's decolonial archival framework - an explicit commitment to centering non-Western naming conventions, multilingual metadata, and culturally specific classification over legacy algorithmic defaults.
 
 ---
 
