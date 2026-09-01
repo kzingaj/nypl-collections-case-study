@@ -14,7 +14,7 @@
 
 This case study documents the metadata architecture, data remediation workflows, and information systems work conducted during nearly eight years at the New York Public Library's BookOps processing center. It is part of a broader portfolio connecting institutional collections experience to the design of LCA1.0 — a local-first, decolonial digital archive centering the works of Afro-Caribbean and Afro-Latina women and femmes across the diaspora.
 
-The work documented here is not library science in the traditional sense. It is enterprise data engineering — high-volume ingestion, real-time audit and remediation, taxonomy design, and multilingual record generation — executed inside one of the largest public library systems in the world.
+The work documented here is not library science in the traditional sense. It is enterprise data engineering. This includes high-volume ingestion, real-time audit and remediation, taxonomy design, and multilingual record generation — executed inside one of the largest public library systems in the world.
 
 ---
 
